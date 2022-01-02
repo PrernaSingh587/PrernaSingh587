@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"> I am Prerna Singh </h1>
+<h2 align="center">A Tech Enthusiast from India</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrernaSingh587" alt="PrernaSingh587" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrernaSingh587&show_icons=true" alt="PrernaSingh587" /></p>
