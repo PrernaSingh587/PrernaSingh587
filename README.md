@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  <br>
    Linkedin : https://www.linkedin.com/in/prerna-singh-497448177/
    <br>
-   Twitter : https://twitter.com/@prerna_singh587
+   Twitter : https://twitter.com/prerna_singh587
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrernaSingh587" alt="PrernaSingh587" /> </p>
 
