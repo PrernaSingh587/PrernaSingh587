@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some cool projects with sharp learning curve
 - ⚡ Also, an avid reader, basketball enthusiast, web shows freak and love to mentor and motivate people.
 - 📫 How to reach me: 
-    Linkedin : https://www.linkedin.com/in/prerna-singh-497448177/
-    Twitter : https://twitter.com/@prerna_singh587
+   Linkedin : https://www.linkedin.com/in/prerna-singh-497448177/
+   <br>
+   Twitter : https://twitter.com/@prerna_singh587
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrernaSingh587" alt="PrernaSingh587" /> </p>
 
