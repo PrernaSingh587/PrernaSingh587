@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🔭 Love to LEETCODE..!
 - 👯 I’m looking to collaborate on some cool projects with sharp learning curve
 - ⚡ Also, an avid reader, basketball enthusiast, web shows freak and love to mentor and motivate people.
+- ✨ SWE Intern at Qualcomm'22, Groww'21
 - 📫 How to reach me:  <br>
    Linkedin : https://www.linkedin.com/in/prerna-singh-497448177/
    <br>
