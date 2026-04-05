@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> I am Prerna Singh </h1>
-<h2 align="center">A Tech Enthusiast from India</h2>
+<h2 align="center">A Techie from India</h2>
 
 - 😄 Pronouns: She/Her
 - 🌱 Exploring distributed systems.
